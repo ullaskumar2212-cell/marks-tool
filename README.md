@@ -5,3 +5,4 @@ Laboratory project for Project Management (with Git), 1BCSL307A.
 ## Usage
 cp .env.example .env
 python3 app.py
+UPDATE README
